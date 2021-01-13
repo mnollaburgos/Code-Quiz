@@ -1,0 +1,7 @@
+.container {
+    margin: auto;
+    width: 50%;
+    border: 5px solid blue;
+    padding: 10px;
+    text-align: center;
+}
